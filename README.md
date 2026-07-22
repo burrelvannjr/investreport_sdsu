@@ -147,15 +147,15 @@ In this course, you **may use** GenAI in the following ways:
 In this course, you **may NOT use** GenAI in the following ways:
 
 - Feeding the prompt and having it write the assignment (and submitting it as your own)
-- Completing assignments in a manner that replaces your own reasoning. 
-    - *You are expected to not know things. It takes time to move from novice to expert on a topic. Doing the assignment on your own will help you make that transition and own your learning.*
+- Completing assignments in a manner that replaces your own reasoning
+    - *You are expected to **not** know things. It takes time to move from novice to expert on a topic. Doing the work on your own will help you make that transition and help you <u>own</u> your learning.*
 - Bypassing the learning objectives of an assignment
     - *Do the work. Struggle is part of the learning process.*  
 
 
 #### Deliverables Policy
 
-Deliverables (e.g. assignments or assessments) in this course will include a *classification* (as outlined under the SDSU [Senate IIT Committee's Guidelines for Use of Generative Artificial Intelligence](https://aaai.sdsu.edu/_resources/files/guidelines-for-use-of-genai-in-assessments-and-deliverables-at-sdsu.pdf?utm_source=chatgpt.com) ) indicating the specific level of GenAI use permitted. In this course, there are two levels of GenAI use: **AI-1: Disallowed** and **AI-2: Restricted**. For each deliverable, students will be informed of which of these two levels is permitted. These levels are described below:
+Deliverables (e.g. assignments or assessments) in this course will include a *classification* (as outlined under the SDSU [Senate IIT Committee's Guidelines for Use of Generative Artificial Intelligence](https://aaai.sdsu.edu/_resources/files/guidelines-for-use-of-genai-in-assessments-and-deliverables-at-sdsu.pdf?utm_source=chatgpt.com)) indicating the specific level of GenAI use permitted. In this course, there are two levels of GenAI use: **AI-1: Disallowed** and **AI-2: Restricted**. For each deliverable, students will be informed of which of these two levels is permitted. These levels are described below:
 
 - **AI-1 - Disallowed**: Generative AI tools are strictly prohibited. Any use of GenAI constitutes misuse, which is a violation of course policy on academic honesty/academic integrity and will be reported to the [Center for Student Rights and Responsibilities](https://sacd.sdsu.edu/student-rights).  
 
@@ -167,7 +167,7 @@ For deliverables classified as **AI-2 - Restricted**, students are required to i
 - *"I used ChatGPT to create an outline for this assignment. I then worked on developing the assignment on my own, and used ChatGPT to clarify my writing/prose. I take full responsibility for the work submitted."*
 
 **If you are unsure whether a particular use of GenAI is appropriate for a deliverable, ask before submitting.**
-
+<br>
 
 #### Instructor Reservation of Rights
 
