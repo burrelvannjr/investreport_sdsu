@@ -136,12 +136,12 @@ Below, I outline the **course** and **deliverable** policies, along with a state
 
 In this course, you **may use** GenAI in the following ways:
 
-    - Developing ideas
-    - Project planning
-    - Brainstorming topics
-    - Refining questions
-    - Outlining sections of a project
-    - Language support (grammar, clarity, translation to English) 
+- Developing ideas
+- Project planning
+- Brainstorming topics
+- Refining questions
+- Outlining sections of a project
+- Language support (grammar, clarity, translation to English) 
 
 
 In this course, you **may NOT use** GenAI in the following ways:
